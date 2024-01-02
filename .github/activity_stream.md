@@ -734,3 +734,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-30 13:47:27 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-10-30 18:47:13 +0530` - test(mock): add automated integration tests for payload generator
 * `2024-01-01 15:46:51 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2024-01-02 22:26:17 +0530` - perf(recon): parallelize port scan worker threads with async I/O
