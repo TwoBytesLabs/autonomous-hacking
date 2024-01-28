@@ -739,3 +739,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-01-07 15:57:05 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2024-01-07 16:35:42 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2024-01-23 15:58:33 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2024-01-28 19:29:23 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
