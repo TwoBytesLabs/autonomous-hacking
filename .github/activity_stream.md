@@ -743,3 +743,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-01-28 21:44:48 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2024-02-03 10:49:06 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2024-02-04 14:01:05 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2024-02-04 16:09:46 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
