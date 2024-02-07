@@ -746,3 +746,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-02-04 16:09:46 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2024-02-05 10:35:40 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2024-02-06 13:36:30 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2024-02-07 17:39:50 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
