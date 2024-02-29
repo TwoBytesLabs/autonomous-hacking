@@ -751,3 +751,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-02-16 19:13:14 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2024-02-24 14:22:13 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2024-02-24 19:04:32 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2024-02-29 10:43:10 +0530` - chore(signatures): update CVE vulnerability definition dictionary
