@@ -755,3 +755,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-03-02 12:30:35 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2024-03-14 19:33:57 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2024-03-15 22:10:06 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2024-03-18 19:12:58 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
