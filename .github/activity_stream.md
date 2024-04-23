@@ -764,3 +764,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-04-16 16:29:45 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2024-04-18 17:34:43 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2024-04-19 12:12:33 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2024-04-23 10:34:03 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
