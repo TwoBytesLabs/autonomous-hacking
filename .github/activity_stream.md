@@ -765,3 +765,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-04-18 17:34:43 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2024-04-19 12:12:33 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2024-04-23 10:34:03 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2024-04-23 13:26:32 +0530` - docs: document target enumeration workflow in security runbook
