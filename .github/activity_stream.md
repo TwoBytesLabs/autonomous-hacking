@@ -766,3 +766,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-04-19 12:12:33 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2024-04-23 10:34:03 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2024-04-23 13:26:32 +0530` - docs: document target enumeration workflow in security runbook
+* `2024-05-06 16:18:49 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
