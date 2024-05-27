@@ -769,3 +769,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-05-06 16:18:49 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2024-05-10 22:13:44 +0530` - docs: document target enumeration workflow in security runbook
 * `2024-05-16 22:25:22 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2024-05-27 15:18:16 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
