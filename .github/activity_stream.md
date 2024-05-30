@@ -770,3 +770,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-05-10 22:13:44 +0530` - docs: document target enumeration workflow in security runbook
 * `2024-05-16 22:25:22 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2024-05-27 15:18:16 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2024-05-30 16:08:34 +0530` - perf(recon): parallelize port scan worker threads with async I/O
