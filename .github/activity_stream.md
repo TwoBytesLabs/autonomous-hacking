@@ -775,3 +775,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-06-13 10:05:45 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2024-06-17 18:33:26 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2024-06-17 18:35:32 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2024-06-19 14:22:25 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
