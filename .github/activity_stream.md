@@ -777,3 +777,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-06-17 18:35:32 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2024-06-19 14:22:25 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2024-06-19 14:41:53 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2024-06-25 21:08:30 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
