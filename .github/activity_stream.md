@@ -778,3 +778,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-06-19 14:22:25 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2024-06-19 14:41:53 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2024-06-25 21:08:30 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2024-07-04 09:01:43 +0530` - test(unit): add unit tests for CIDR range subnet expansion
