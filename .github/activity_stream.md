@@ -780,3 +780,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-06-25 21:08:30 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2024-07-04 09:01:43 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2024-07-18 16:19:21 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2024-07-22 20:14:42 +0530` - test(unit): add unit tests for CIDR range subnet expansion
