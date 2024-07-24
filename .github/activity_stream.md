@@ -782,3 +782,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-07-18 16:19:21 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2024-07-22 20:14:42 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2024-07-23 13:21:54 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2024-07-24 11:31:48 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
