@@ -784,3 +784,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-07-23 13:21:54 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2024-07-24 11:31:48 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2024-07-29 12:05:19 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2024-08-01 12:44:19 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
