@@ -792,3 +792,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-08-10 19:55:02 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2024-08-19 11:28:47 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2024-08-24 15:44:02 +0530` - docs: document target enumeration workflow in security runbook
+* `2024-09-02 18:45:58 +0530` - perf(recon): parallelize port scan worker threads with async I/O
