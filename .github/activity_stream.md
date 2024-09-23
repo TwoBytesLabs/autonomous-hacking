@@ -794,3 +794,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-08-24 15:44:02 +0530` - docs: document target enumeration workflow in security runbook
 * `2024-09-02 18:45:58 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2024-09-16 16:02:20 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2024-09-23 11:46:20 +0530` - docs: document target enumeration workflow in security runbook
