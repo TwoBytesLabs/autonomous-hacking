@@ -802,3 +802,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-10-13 20:10:29 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2024-10-19 13:11:36 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2024-10-22 10:12:07 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2024-10-26 20:27:06 +0530` - docs: update terminal CLI examples and setup prerequisites
