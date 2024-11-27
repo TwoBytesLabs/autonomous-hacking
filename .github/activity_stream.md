@@ -808,3 +808,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-11-18 22:13:46 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2024-11-22 18:07:18 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2024-11-24 14:37:06 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2024-11-27 10:57:08 +0530` - test(unit): add unit tests for CIDR range subnet expansion
