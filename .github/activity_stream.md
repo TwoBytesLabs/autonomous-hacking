@@ -810,3 +810,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-11-24 14:37:06 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2024-11-27 10:57:08 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2024-11-27 22:44:54 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2024-12-01 11:36:09 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
