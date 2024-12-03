@@ -812,3 +812,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-11-27 22:44:54 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2024-12-01 11:36:09 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2024-12-01 16:01:12 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2024-12-03 21:01:20 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
