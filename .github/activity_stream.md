@@ -815,3 +815,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-12-03 21:01:20 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2024-12-06 21:24:53 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2024-12-07 16:41:57 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2024-12-07 18:08:21 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
