@@ -817,3 +817,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-12-07 16:41:57 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2024-12-07 18:08:21 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2024-12-16 13:26:42 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2024-12-25 09:16:52 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
