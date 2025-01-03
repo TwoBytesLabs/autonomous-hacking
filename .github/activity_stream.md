@@ -819,3 +819,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2024-12-16 13:26:42 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2024-12-25 09:16:52 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2024-12-28 18:33:56 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2025-01-03 13:19:38 +0530` - docs: update terminal CLI examples and setup prerequisites
