@@ -823,3 +823,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-01-03 14:03:36 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2025-01-03 18:11:21 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2025-01-04 11:37:07 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2025-01-04 19:06:41 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
