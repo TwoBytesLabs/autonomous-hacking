@@ -825,3 +825,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-01-04 11:37:07 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2025-01-04 19:06:41 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-01-06 12:28:31 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2025-01-06 20:55:21 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
