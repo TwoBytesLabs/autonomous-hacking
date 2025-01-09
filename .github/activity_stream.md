@@ -830,3 +830,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-01-08 10:06:23 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-01-08 11:16:31 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2025-01-08 12:41:37 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2025-01-09 19:01:02 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
