@@ -834,3 +834,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-01-12 13:56:14 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-01-12 15:00:20 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2025-01-13 15:25:53 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2025-01-13 18:46:20 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
