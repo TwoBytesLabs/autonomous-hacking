@@ -839,3 +839,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-01-15 12:53:28 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-01-16 13:42:55 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2025-01-16 17:36:18 +0530` - test(mock): add automated integration tests for payload generator
+* `2025-01-17 10:03:08 +0530` - fix(cli): parse complex target specification flags without silent failure
