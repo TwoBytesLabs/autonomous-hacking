@@ -841,3 +841,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-01-16 17:36:18 +0530` - test(mock): add automated integration tests for payload generator
 * `2025-01-17 10:03:08 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2025-01-18 17:30:15 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2025-01-20 18:37:04 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
