@@ -850,3 +850,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-01-24 16:53:14 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2025-01-27 10:13:13 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2025-01-27 19:48:18 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2025-01-29 11:59:57 +0530` - fix(cli): parse complex target specification flags without silent failure
