@@ -853,3 +853,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-01-29 11:59:57 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2025-01-29 17:22:43 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-01-30 15:12:40 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2025-01-31 22:22:21 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
