@@ -855,3 +855,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-01-30 15:12:40 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2025-01-31 22:22:21 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2025-02-03 11:24:16 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2025-02-03 18:39:17 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
