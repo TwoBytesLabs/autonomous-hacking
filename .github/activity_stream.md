@@ -854,3 +854,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-01-29 17:22:43 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-01-30 15:12:40 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2025-01-31 22:22:21 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2025-02-03 11:24:16 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
