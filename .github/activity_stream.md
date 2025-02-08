@@ -857,3 +857,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-02-03 11:24:16 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-02-03 18:39:17 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2025-02-04 14:37:45 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2025-02-08 17:39:33 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
