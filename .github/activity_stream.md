@@ -858,3 +858,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-02-03 18:39:17 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2025-02-04 14:37:45 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-02-08 17:39:33 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2025-02-08 18:16:39 +0530` - docs: update terminal CLI examples and setup prerequisites
