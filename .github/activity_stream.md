@@ -863,3 +863,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-02-09 15:47:40 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-02-10 13:16:57 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2025-02-10 17:15:27 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2025-02-10 18:26:41 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
