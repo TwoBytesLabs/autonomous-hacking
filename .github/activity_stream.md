@@ -861,3 +861,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-02-08 18:16:39 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-02-09 10:51:05 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-02-09 15:47:40 +0530` - docs: document target enumeration workflow in security runbook
+* `2025-02-10 13:16:57 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
