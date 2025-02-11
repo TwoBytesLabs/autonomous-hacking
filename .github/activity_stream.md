@@ -866,3 +866,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-02-10 18:26:41 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2025-02-11 10:09:54 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2025-02-11 19:02:12 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2025-02-11 21:05:29 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
