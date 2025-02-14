@@ -870,3 +870,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-02-12 10:02:30 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-02-12 20:41:33 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-02-13 21:25:47 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2025-02-14 19:52:42 +0530` - docs: update terminal CLI examples and setup prerequisites
