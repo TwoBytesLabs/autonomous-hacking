@@ -872,3 +872,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-02-13 21:25:47 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2025-02-14 19:52:42 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-02-14 22:11:34 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2025-02-16 18:54:35 +0530` - fix(cli): parse complex target specification flags without silent failure
