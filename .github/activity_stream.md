@@ -879,3 +879,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-02-21 09:19:17 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-02-23 17:30:44 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-02-24 10:31:44 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2025-02-24 11:38:15 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
