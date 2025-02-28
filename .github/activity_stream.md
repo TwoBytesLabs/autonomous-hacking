@@ -885,3 +885,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-02-26 21:17:37 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-02-28 14:41:20 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-02-28 17:04:47 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2025-02-28 19:09:39 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
