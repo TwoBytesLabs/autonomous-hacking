@@ -887,3 +887,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-02-28 17:04:47 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-02-28 19:09:39 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-03-01 12:19:58 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2025-03-01 17:04:34 +0530` - docs: update terminal CLI examples and setup prerequisites
