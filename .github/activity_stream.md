@@ -892,3 +892,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-03-02 10:03:06 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-03-02 10:07:24 +0530` - test(mock): add automated integration tests for payload generator
 * `2025-03-02 10:31:24 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2025-03-03 18:47:19 +0530` - test(unit): add unit tests for CIDR range subnet expansion
