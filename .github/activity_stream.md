@@ -899,3 +899,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-03-07 15:24:56 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2025-03-07 17:53:12 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-03-07 21:01:12 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2025-03-09 15:11:34 +0530` - fix(cli): parse complex target specification flags without silent failure
