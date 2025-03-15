@@ -906,3 +906,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-03-11 11:41:32 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-03-12 18:05:58 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2025-03-14 20:31:15 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2025-03-15 16:42:56 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
