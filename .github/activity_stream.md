@@ -908,3 +908,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-03-14 20:31:15 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2025-03-15 16:42:56 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-03-17 09:15:45 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2025-03-19 10:40:30 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
