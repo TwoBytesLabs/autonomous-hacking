@@ -915,3 +915,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-03-23 11:14:55 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-03-23 20:54:47 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-03-25 10:24:38 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2025-03-25 15:13:26 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
