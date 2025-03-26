@@ -917,3 +917,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-03-25 10:24:38 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2025-03-25 15:13:26 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-03-25 16:33:35 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2025-03-26 10:32:42 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
