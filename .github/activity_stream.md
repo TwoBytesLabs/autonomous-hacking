@@ -919,3 +919,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-03-25 16:33:35 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-03-26 10:32:42 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-03-26 15:24:27 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2025-03-27 21:39:39 +0530` - docs: update terminal CLI examples and setup prerequisites
