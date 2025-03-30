@@ -922,3 +922,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-03-27 21:39:39 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-03-28 12:33:48 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2025-03-29 11:48:29 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2025-03-30 10:26:41 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
