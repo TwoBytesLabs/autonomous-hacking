@@ -926,3 +926,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-03-30 13:24:16 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2025-03-30 21:19:25 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2025-03-31 17:39:48 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
+* `2025-04-01 10:12:26 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
