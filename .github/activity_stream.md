@@ -928,3 +928,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-03-31 17:39:48 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-04-01 10:12:26 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-04-01 18:49:45 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2025-04-02 16:11:05 +0530` - perf(fingerprint): cache service response headers for rapid matching
