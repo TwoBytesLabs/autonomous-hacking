@@ -938,3 +938,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-04-10 16:01:57 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2025-04-10 18:23:33 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-04-11 12:50:31 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2025-04-11 13:20:41 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
