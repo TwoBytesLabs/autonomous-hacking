@@ -941,3 +941,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-04-11 13:20:41 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-04-11 20:16:19 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2025-04-13 12:04:35 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2025-04-13 15:23:51 +0530` - fix(cli): parse complex target specification flags without silent failure
