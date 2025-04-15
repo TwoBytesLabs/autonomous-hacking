@@ -943,3 +943,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-04-13 12:04:35 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2025-04-13 15:23:51 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2025-04-15 13:23:42 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2025-04-15 18:47:48 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
