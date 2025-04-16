@@ -945,3 +945,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-04-15 13:23:42 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2025-04-15 18:47:48 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-04-15 21:16:16 +0530` - docs: document target enumeration workflow in security runbook
+* `2025-04-16 17:11:31 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
