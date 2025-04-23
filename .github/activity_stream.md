@@ -949,3 +949,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-04-20 10:18:53 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2025-04-20 16:23:09 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2025-04-22 22:10:40 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2025-04-23 12:40:28 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
