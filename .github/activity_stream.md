@@ -953,3 +953,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-04-23 14:11:19 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2025-04-24 11:27:09 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2025-04-24 11:54:40 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2025-04-24 16:41:43 +0530` - docs: document target enumeration workflow in security runbook
