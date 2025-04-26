@@ -956,3 +956,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-04-24 16:41:43 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-04-25 22:49:43 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2025-04-26 22:28:48 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2025-04-26 22:42:15 +0530` - perf(fingerprint): cache service response headers for rapid matching
