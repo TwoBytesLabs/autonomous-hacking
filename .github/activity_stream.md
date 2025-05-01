@@ -959,3 +959,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-04-26 22:42:15 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2025-04-29 12:22:09 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-04-29 16:34:05 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2025-05-01 15:44:44 +0530` - docs: update terminal CLI examples and setup prerequisites
