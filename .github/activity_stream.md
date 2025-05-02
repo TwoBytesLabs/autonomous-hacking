@@ -961,3 +961,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-04-29 16:34:05 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-05-01 15:44:44 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-05-02 19:42:14 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2025-05-02 20:44:57 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
