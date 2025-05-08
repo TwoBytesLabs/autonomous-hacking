@@ -968,3 +968,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-05-07 09:51:55 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-05-08 11:05:08 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-05-08 13:41:53 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2025-05-08 16:42:29 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
