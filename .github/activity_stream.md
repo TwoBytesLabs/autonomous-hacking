@@ -966,3 +966,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-05-05 13:48:04 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-05-05 18:41:54 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-05-07 09:51:55 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2025-05-08 11:05:08 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
