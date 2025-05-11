@@ -969,3 +969,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-05-08 11:05:08 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-05-08 13:41:53 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-05-08 16:42:29 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2025-05-11 13:09:01 +0530` - test(mock): add automated integration tests for payload generator
