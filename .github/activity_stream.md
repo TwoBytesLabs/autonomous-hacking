@@ -973,3 +973,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-05-12 15:50:03 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-05-12 22:14:32 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2025-05-13 12:18:55 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2025-05-13 12:30:00 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
