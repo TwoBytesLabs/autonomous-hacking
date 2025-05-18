@@ -978,3 +978,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-05-15 14:52:23 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-05-16 09:40:50 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-05-16 14:16:39 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2025-05-18 14:09:31 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
