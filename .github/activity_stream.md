@@ -983,3 +983,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-05-20 13:29:47 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2025-05-20 15:42:49 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2025-05-20 18:41:21 +0530` - test(mock): add automated integration tests for payload generator
+* `2025-05-20 20:47:03 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
