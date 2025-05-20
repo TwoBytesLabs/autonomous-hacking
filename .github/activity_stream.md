@@ -981,3 +981,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-05-18 14:09:31 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-05-18 18:58:13 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-05-20 13:29:47 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2025-05-20 15:42:49 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
