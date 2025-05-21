@@ -985,3 +985,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-05-20 18:41:21 +0530` - test(mock): add automated integration tests for payload generator
 * `2025-05-20 20:47:03 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2025-05-21 15:12:08 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2025-05-21 21:35:54 +0530` - test(unit): add unit tests for CIDR range subnet expansion
