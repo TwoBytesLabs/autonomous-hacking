@@ -988,3 +988,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-05-21 21:35:54 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-05-23 09:04:34 +0530` - test(mock): add automated integration tests for payload generator
 * `2025-05-23 20:26:53 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2025-05-23 22:13:24 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
