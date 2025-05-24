@@ -991,3 +991,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-05-23 22:13:24 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-05-24 12:09:36 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2025-05-24 19:19:39 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2025-05-24 22:15:31 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
