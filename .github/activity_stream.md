@@ -995,3 +995,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-05-25 11:04:14 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2025-05-25 22:32:39 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-05-27 10:08:52 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2025-05-27 16:01:37 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
