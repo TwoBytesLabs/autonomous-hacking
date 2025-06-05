@@ -1001,3 +1001,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-06-01 10:10:26 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2025-06-01 20:29:25 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2025-06-03 17:09:14 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2025-06-05 16:48:31 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
