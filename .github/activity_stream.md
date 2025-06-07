@@ -1007,3 +1007,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-06-06 11:47:03 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-06-06 12:14:37 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2025-06-06 18:12:53 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2025-06-07 21:21:09 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
