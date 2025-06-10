@@ -1012,3 +1012,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-06-09 12:56:56 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2025-06-09 17:12:21 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2025-06-09 18:34:13 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
+* `2025-06-10 19:01:23 +0530` - docs: document target enumeration workflow in security runbook
