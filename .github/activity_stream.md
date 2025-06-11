@@ -1014,3 +1014,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-06-09 18:34:13 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-06-10 19:01:23 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-06-11 10:25:16 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2025-06-11 17:07:31 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
