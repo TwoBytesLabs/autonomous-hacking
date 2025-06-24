@@ -1030,3 +1030,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-06-23 11:15:26 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-06-23 15:02:56 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-06-24 16:07:39 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2025-06-24 22:56:31 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
