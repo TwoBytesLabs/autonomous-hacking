@@ -1029,3 +1029,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-06-22 16:35:34 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-06-23 11:15:26 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-06-23 15:02:56 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2025-06-24 16:07:39 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
