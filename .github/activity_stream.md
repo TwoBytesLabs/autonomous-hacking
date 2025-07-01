@@ -1037,3 +1037,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-06-28 10:31:12 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-06-28 11:50:08 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2025-07-01 18:03:28 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2025-07-01 18:26:13 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
