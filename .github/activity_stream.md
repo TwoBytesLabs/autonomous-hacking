@@ -1040,3 +1040,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-07-01 18:26:13 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-07-03 20:11:04 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2025-07-03 21:08:38 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2025-07-04 12:41:39 +0530` - test(mock): add automated integration tests for payload generator
