@@ -1042,3 +1042,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-07-03 21:08:38 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2025-07-04 12:41:39 +0530` - test(mock): add automated integration tests for payload generator
 * `2025-07-04 17:34:30 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2025-07-04 19:33:20 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
