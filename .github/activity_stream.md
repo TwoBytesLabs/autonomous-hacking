@@ -1047,3 +1047,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-07-05 11:19:04 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-07-07 14:10:01 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2025-07-07 22:16:38 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2025-07-08 16:45:16 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
