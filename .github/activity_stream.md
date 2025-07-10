@@ -1056,3 +1056,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-07-09 21:38:12 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2025-07-10 12:04:43 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-07-10 20:56:32 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2025-07-10 22:10:45 +0530` - test(unit): add unit tests for CIDR range subnet expansion
