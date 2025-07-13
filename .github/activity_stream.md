@@ -1058,3 +1058,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-07-10 20:56:32 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2025-07-10 22:10:45 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-07-11 19:10:13 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2025-07-13 22:37:16 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
