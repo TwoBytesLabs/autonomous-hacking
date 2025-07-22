@@ -1066,3 +1066,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-07-19 10:12:04 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2025-07-19 22:43:47 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-07-21 19:11:28 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2025-07-22 14:25:21 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
