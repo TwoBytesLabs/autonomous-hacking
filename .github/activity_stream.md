@@ -1072,3 +1072,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-07-25 19:50:57 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-07-26 09:40:24 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-07-26 10:05:17 +0530` - docs: document target enumeration workflow in security runbook
+* `2025-07-29 10:25:42 +0530` - fix(cli): parse complex target specification flags without silent failure
