@@ -1076,3 +1076,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-07-29 20:12:51 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-07-30 15:43:07 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2025-07-31 09:50:17 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2025-07-31 15:02:16 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
