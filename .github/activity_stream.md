@@ -1078,3 +1078,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-07-31 09:50:17 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-07-31 15:02:16 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-07-31 21:31:37 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2025-08-01 15:10:02 +0530` - docs: document target enumeration workflow in security runbook
