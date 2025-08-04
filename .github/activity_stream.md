@@ -1080,3 +1080,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-07-31 21:31:37 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-08-01 15:10:02 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-08-04 12:42:06 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2025-08-04 16:18:46 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
