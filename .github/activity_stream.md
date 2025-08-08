@@ -1085,3 +1085,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-08-06 14:38:16 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2025-08-06 18:19:17 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-08-08 14:34:45 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2025-08-08 16:55:05 +0530` - chore(signatures): update CVE vulnerability definition dictionary
