@@ -1087,3 +1087,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-08-08 14:34:45 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-08-08 16:55:05 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2025-08-10 14:54:11 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2025-08-11 13:35:27 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
