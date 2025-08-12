@@ -1090,3 +1090,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-08-11 13:35:27 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-08-11 18:32:08 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2025-08-12 12:28:49 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
+* `2025-08-12 14:50:43 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
