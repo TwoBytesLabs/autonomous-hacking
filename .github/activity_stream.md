@@ -1089,3 +1089,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-08-10 14:54:11 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2025-08-11 13:35:27 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-08-11 18:32:08 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2025-08-12 12:28:49 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
