@@ -1104,3 +1104,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-08-19 19:30:09 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-08-19 20:58:18 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-08-20 13:51:34 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2025-08-22 16:55:01 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
