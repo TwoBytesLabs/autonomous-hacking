@@ -1109,3 +1109,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-08-22 21:47:12 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-08-23 18:43:51 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-08-25 13:17:27 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2025-08-25 14:25:02 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
