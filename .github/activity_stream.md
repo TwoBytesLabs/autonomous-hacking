@@ -1108,3 +1108,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-08-22 17:07:49 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-08-22 21:47:12 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-08-23 18:43:51 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2025-08-25 13:17:27 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
