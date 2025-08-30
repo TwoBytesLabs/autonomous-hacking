@@ -1114,3 +1114,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-08-25 21:31:15 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2025-08-29 11:22:20 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-08-30 13:04:09 +0530` - docs: document target enumeration workflow in security runbook
+* `2025-08-30 13:08:58 +0530` - test(unit): add unit tests for CIDR range subnet expansion
