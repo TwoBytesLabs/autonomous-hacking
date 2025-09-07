@@ -1120,3 +1120,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-09-03 17:10:43 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2025-09-04 17:09:46 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-09-05 14:14:51 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2025-09-07 10:32:57 +0530` - docs: update terminal CLI examples and setup prerequisites
