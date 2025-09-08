@@ -1124,3 +1124,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-09-07 15:50:55 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2025-09-08 13:09:42 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2025-09-08 22:11:45 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2025-09-08 22:20:08 +0530` - test(mock): add automated integration tests for payload generator
