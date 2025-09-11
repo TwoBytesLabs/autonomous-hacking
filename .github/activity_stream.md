@@ -1128,3 +1128,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-09-09 17:28:20 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-09-10 09:28:33 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2025-09-10 09:50:20 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2025-09-11 10:52:24 +0530` - test(unit): add unit tests for CIDR range subnet expansion
