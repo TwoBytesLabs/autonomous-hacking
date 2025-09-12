@@ -1130,3 +1130,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-09-10 09:50:20 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-09-11 10:52:24 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-09-11 21:54:37 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2025-09-12 17:49:09 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
