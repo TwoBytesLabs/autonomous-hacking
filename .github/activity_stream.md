@@ -1142,3 +1142,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-09-20 16:40:07 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2025-09-20 22:12:52 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2025-09-21 09:18:54 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2025-09-21 12:01:25 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
