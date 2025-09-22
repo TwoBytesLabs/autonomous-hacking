@@ -1145,3 +1145,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-09-21 12:01:25 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-09-22 10:48:47 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2025-09-22 12:07:38 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2025-09-22 12:19:45 +0530` - docs: update terminal CLI examples and setup prerequisites
