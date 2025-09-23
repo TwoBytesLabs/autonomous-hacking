@@ -1147,3 +1147,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-09-22 12:07:38 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2025-09-22 12:19:45 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-09-22 22:44:29 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2025-09-23 10:22:04 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
