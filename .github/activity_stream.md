@@ -1158,3 +1158,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-09-28 16:38:41 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-09-28 21:57:41 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-09-29 20:15:10 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2025-10-01 21:49:41 +0530` - chore(signatures): update CVE vulnerability definition dictionary
