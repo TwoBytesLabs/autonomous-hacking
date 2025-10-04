@@ -1160,3 +1160,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-09-29 20:15:10 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2025-10-01 21:49:41 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2025-10-01 21:49:56 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2025-10-04 10:18:32 +0530` - test(unit): add unit tests for CIDR range subnet expansion
