@@ -1163,3 +1163,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-10-04 10:18:32 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-10-04 17:52:26 +0530` - test(mock): add automated integration tests for payload generator
 * `2025-10-05 14:48:03 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2025-10-05 20:29:05 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
