@@ -1165,3 +1165,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-10-05 14:48:03 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2025-10-05 20:29:05 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2025-10-06 19:40:36 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2025-10-06 21:52:38 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
