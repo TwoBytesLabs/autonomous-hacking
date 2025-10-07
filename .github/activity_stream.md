@@ -1167,3 +1167,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-10-06 19:40:36 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-10-06 21:52:38 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2025-10-06 22:47:06 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
+* `2025-10-07 18:43:24 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
