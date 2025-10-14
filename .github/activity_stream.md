@@ -1179,3 +1179,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-10-12 13:04:37 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2025-10-12 16:16:15 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-10-14 10:06:11 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2025-10-14 18:04:27 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
