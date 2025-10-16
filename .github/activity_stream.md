@@ -1181,3 +1181,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-10-14 10:06:11 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2025-10-14 18:04:27 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2025-10-15 21:04:48 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2025-10-16 20:58:35 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
