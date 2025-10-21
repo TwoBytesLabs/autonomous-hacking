@@ -1187,3 +1187,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-10-19 20:50:58 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2025-10-20 09:58:11 +0530` - test(mock): add automated integration tests for payload generator
 * `2025-10-21 09:18:16 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2025-10-21 15:14:23 +0530` - docs: document target enumeration workflow in security runbook
