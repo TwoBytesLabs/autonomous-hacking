@@ -1189,3 +1189,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-10-21 09:18:16 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-10-21 15:14:23 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-10-22 09:47:52 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2025-10-22 18:19:31 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
