@@ -1193,3 +1193,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-10-24 16:35:57 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-10-26 09:50:34 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-10-27 10:17:10 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2025-10-27 10:31:44 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
