@@ -1195,3 +1195,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-10-27 10:17:10 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2025-10-27 10:31:44 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-10-28 12:14:18 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2025-10-28 21:46:10 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
