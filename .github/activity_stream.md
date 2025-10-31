@@ -1198,3 +1198,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-10-28 21:46:10 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-10-30 12:35:52 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2025-10-30 20:43:43 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2025-10-31 10:56:53 +0530` - perf(fingerprint): cache service response headers for rapid matching
