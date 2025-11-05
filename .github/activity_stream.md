@@ -1205,3 +1205,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-11-04 17:28:42 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2025-11-04 19:53:15 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-11-05 12:01:19 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2025-11-05 12:29:04 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
