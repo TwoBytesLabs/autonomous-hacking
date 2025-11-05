@@ -1206,3 +1206,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-11-04 19:53:15 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-11-05 12:01:19 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2025-11-05 12:29:04 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2025-11-05 19:51:16 +0530` - perf(fingerprint): cache service response headers for rapid matching
