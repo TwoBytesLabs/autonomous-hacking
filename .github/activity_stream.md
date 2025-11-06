@@ -1208,3 +1208,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-11-05 12:29:04 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-11-05 19:51:16 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2025-11-06 16:53:45 +0530` - docs: document target enumeration workflow in security runbook
+* `2025-11-06 17:14:18 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
