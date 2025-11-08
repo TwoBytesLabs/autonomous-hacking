@@ -1210,3 +1210,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-11-06 16:53:45 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-11-06 17:14:18 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2025-11-06 18:44:24 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2025-11-08 19:06:41 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
