@@ -1213,3 +1213,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-11-08 19:06:41 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-11-08 22:00:45 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-11-12 14:51:37 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2025-11-12 15:02:54 +0530` - perf(recon): parallelize port scan worker threads with async I/O
