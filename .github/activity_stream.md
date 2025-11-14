@@ -1216,3 +1216,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-11-12 15:02:54 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2025-11-13 21:05:29 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-11-13 21:28:43 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2025-11-14 17:36:43 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
