@@ -1217,3 +1217,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-11-13 21:05:29 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-11-13 21:28:43 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-11-14 17:36:43 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2025-11-14 17:49:31 +0530` - test(unit): add unit tests for CIDR range subnet expansion
