@@ -1226,3 +1226,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-11-17 10:08:30 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2025-11-17 18:33:47 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2025-11-18 16:30:53 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2025-11-19 11:06:50 +0530` - fix(cli): parse complex target specification flags without silent failure
