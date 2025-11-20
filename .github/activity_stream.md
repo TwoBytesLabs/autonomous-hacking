@@ -1229,3 +1229,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-11-19 11:06:50 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2025-11-19 14:01:26 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2025-11-19 17:25:04 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2025-11-20 11:57:58 +0530` - docs: update terminal CLI examples and setup prerequisites
