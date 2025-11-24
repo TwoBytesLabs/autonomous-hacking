@@ -1233,3 +1233,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-11-20 22:51:10 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2025-11-22 11:13:33 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2025-11-23 16:52:37 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2025-11-24 11:19:35 +0530` - perf(recon): parallelize port scan worker threads with async I/O
