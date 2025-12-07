@@ -1247,3 +1247,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-12-03 15:45:34 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-12-03 20:01:17 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2025-12-05 13:29:01 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2025-12-07 14:20:46 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
