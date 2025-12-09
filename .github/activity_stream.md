@@ -1250,3 +1250,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-12-07 14:20:46 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2025-12-07 16:38:13 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-12-09 09:07:27 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2025-12-09 10:19:56 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
