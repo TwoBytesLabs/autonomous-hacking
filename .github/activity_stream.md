@@ -1252,3 +1252,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-12-09 09:07:27 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2025-12-09 10:19:56 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2025-12-09 15:32:12 +0530` - test(mock): add automated integration tests for payload generator
+* `2025-12-10 13:22:25 +0530` - docs: document target enumeration workflow in security runbook
