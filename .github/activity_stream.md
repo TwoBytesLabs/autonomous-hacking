@@ -1256,3 +1256,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-12-10 19:05:08 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2025-12-10 20:21:59 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2025-12-11 15:22:15 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2025-12-12 14:15:58 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
