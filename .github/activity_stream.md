@@ -1262,3 +1262,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-12-16 10:34:23 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2025-12-16 21:50:40 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2025-12-16 22:46:16 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2025-12-17 13:20:54 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
