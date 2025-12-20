@@ -1266,3 +1266,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-12-18 11:31:53 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2025-12-18 21:14:46 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2025-12-20 10:24:37 +0530` - test(mock): add automated integration tests for payload generator
+* `2025-12-20 10:41:14 +0530` - chore(signatures): update CVE vulnerability definition dictionary
