@@ -1269,3 +1269,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-12-20 10:41:14 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2025-12-20 20:01:10 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-12-22 17:30:24 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2025-12-22 18:56:40 +0530` - docs: document target enumeration workflow in security runbook
