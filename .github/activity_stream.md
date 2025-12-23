@@ -1271,3 +1271,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-12-22 17:30:24 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2025-12-22 18:56:40 +0530` - docs: document target enumeration workflow in security runbook
 * `2025-12-23 10:27:25 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2025-12-23 13:17:12 +0530` - test(mock): add automated integration tests for payload generator
