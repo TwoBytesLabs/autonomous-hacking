@@ -1277,3 +1277,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-12-26 14:00:13 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2025-12-28 16:54:48 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2025-12-28 21:15:21 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2025-12-29 10:38:40 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
