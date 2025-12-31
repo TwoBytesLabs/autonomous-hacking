@@ -1282,3 +1282,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2025-12-29 22:31:16 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2025-12-31 09:25:10 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2025-12-31 10:24:43 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2025-12-31 14:05:58 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
