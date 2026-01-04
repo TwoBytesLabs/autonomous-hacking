@@ -8,3 +8,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-03 14:51:34 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-01-03 19:35:22 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-01-04 11:02:23 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2026-01-04 12:09:43 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
