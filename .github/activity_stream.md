@@ -10,3 +10,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-04 11:02:23 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-01-04 12:09:43 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-01-04 14:32:38 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
+* `2026-01-05 09:43:06 +0530` - chore(signatures): update CVE vulnerability definition dictionary
