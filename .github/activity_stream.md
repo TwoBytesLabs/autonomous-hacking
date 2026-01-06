@@ -14,3 +14,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-05 20:50:41 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-01-06 13:49:48 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-01-06 16:12:28 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2026-01-06 17:52:02 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
