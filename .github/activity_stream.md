@@ -21,3 +21,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-08 10:31:19 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-01-09 09:47:08 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-01-09 11:11:12 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2026-01-09 12:09:41 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
