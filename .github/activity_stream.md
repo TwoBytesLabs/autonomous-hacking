@@ -19,3 +19,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-07 10:44:36 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-01-07 16:28:43 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-01-08 10:31:19 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2026-01-09 09:47:08 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
