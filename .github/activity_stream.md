@@ -20,3 +20,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-07 16:28:43 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-01-08 10:31:19 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-01-09 09:47:08 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2026-01-09 11:11:12 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
