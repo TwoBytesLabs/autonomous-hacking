@@ -25,3 +25,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-10 09:23:38 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-01-10 10:14:53 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-01-10 15:34:12 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2026-01-10 15:41:39 +0530` - docs: update terminal CLI examples and setup prerequisites
