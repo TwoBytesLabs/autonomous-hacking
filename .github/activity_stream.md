@@ -27,3 +27,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-10 15:34:12 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-01-10 15:41:39 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-01-10 21:17:42 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2026-01-11 22:54:24 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
