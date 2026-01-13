@@ -29,3 +29,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-10 21:17:42 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-01-11 22:54:24 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-01-13 20:10:46 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2026-01-13 22:49:18 +0530` - test(unit): add unit tests for CIDR range subnet expansion
