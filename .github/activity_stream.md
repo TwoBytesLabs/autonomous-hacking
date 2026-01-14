@@ -30,3 +30,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-11 22:54:24 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-01-13 20:10:46 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-01-13 22:49:18 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2026-01-14 09:46:55 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
