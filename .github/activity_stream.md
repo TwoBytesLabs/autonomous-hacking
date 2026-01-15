@@ -36,3 +36,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-14 22:57:17 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-01-15 16:19:04 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-01-15 18:08:55 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2026-01-15 19:12:06 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
