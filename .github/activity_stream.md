@@ -34,3 +34,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-14 12:03:19 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-01-14 19:27:37 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-01-14 22:57:17 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2026-01-15 16:19:04 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
