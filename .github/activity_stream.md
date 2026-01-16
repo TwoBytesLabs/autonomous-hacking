@@ -38,3 +38,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-15 18:08:55 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-01-15 19:12:06 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-01-15 20:43:43 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
+* `2026-01-16 09:04:06 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
