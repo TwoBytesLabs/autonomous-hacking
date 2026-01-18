@@ -43,3 +43,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-16 22:42:49 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-01-17 10:46:42 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-01-17 16:29:21 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2026-01-18 09:44:33 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
