@@ -47,3 +47,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-18 15:27:50 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-01-18 18:15:37 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-01-19 12:20:19 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2026-01-21 09:39:38 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
