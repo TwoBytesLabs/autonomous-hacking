@@ -51,3 +51,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-21 09:46:16 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-01-22 12:12:27 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-01-22 19:57:29 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2026-01-22 21:21:36 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
