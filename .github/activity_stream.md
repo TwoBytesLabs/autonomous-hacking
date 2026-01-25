@@ -56,3 +56,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-23 17:30:45 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-01-23 19:34:56 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-01-25 15:30:25 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2026-01-25 17:05:05 +0530` - fix(cli): parse complex target specification flags without silent failure
