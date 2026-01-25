@@ -55,3 +55,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-23 10:00:22 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-01-23 17:30:45 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-01-23 19:34:56 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2026-01-25 15:30:25 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
