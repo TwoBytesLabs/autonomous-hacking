@@ -61,3 +61,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-26 16:42:57 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-01-27 10:31:30 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-01-27 12:43:03 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2026-01-27 17:52:38 +0530` - perf(recon): parallelize port scan worker threads with async I/O
