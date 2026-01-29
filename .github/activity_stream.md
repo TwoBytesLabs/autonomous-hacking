@@ -68,3 +68,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-28 19:58:46 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-01-28 21:19:28 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-01-29 15:34:28 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-01-29 22:13:55 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
