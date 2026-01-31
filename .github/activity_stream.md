@@ -70,3 +70,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-01-29 15:34:28 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-01-29 22:13:55 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-01-30 13:15:33 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-01-31 12:57:55 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
