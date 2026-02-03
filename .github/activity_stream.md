@@ -75,3 +75,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-01 10:00:16 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-02-01 12:10:21 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-02-02 15:27:50 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2026-02-03 12:44:11 +0530` - docs: update terminal CLI examples and setup prerequisites
