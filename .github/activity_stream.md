@@ -77,3 +77,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-02 15:27:50 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-02-03 12:44:11 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-02-04 10:11:50 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2026-02-04 14:49:32 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
