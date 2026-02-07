@@ -87,3 +87,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-06 11:36:22 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-02-06 15:32:20 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-02-06 17:34:33 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2026-02-07 14:39:09 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
