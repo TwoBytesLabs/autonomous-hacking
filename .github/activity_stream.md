@@ -90,3 +90,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-07 14:39:09 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-02-07 20:11:00 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-02-08 10:46:00 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2026-02-08 15:05:35 +0530` - docs: document target enumeration workflow in security runbook
