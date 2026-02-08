@@ -91,3 +91,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-07 20:11:00 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-02-08 10:46:00 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-02-08 15:05:35 +0530` - docs: document target enumeration workflow in security runbook
+* `2026-02-08 15:48:20 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
