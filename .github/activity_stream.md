@@ -93,3 +93,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-08 15:05:35 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-02-08 15:48:20 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-02-08 20:11:34 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2026-02-10 09:47:05 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
