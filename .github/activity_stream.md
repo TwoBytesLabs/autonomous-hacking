@@ -96,3 +96,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-10 09:47:05 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-02-11 10:07:15 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-02-11 11:54:46 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2026-02-11 15:04:00 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
