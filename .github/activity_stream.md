@@ -95,3 +95,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-08 20:11:34 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-02-10 09:47:05 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-02-11 10:07:15 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2026-02-11 11:54:46 +0530` - docs: update terminal CLI examples and setup prerequisites
