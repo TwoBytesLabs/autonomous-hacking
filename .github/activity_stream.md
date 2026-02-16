@@ -106,3 +106,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-14 19:17:20 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-02-15 09:34:28 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-02-15 15:10:20 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2026-02-16 11:28:01 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
