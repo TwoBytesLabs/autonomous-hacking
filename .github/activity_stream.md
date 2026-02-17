@@ -110,3 +110,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-16 12:08:26 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-02-16 17:13:26 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-02-16 19:21:03 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2026-02-17 19:49:01 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
