@@ -114,3 +114,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-18 09:12:17 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-02-19 15:39:48 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-02-19 15:58:08 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2026-02-19 16:58:10 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
