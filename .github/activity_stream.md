@@ -118,3 +118,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-19 19:06:56 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-02-19 19:51:57 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-02-20 20:16:52 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2026-02-20 21:36:00 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
