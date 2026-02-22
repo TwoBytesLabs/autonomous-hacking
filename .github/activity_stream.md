@@ -126,3 +126,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-22 11:09:53 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-02-22 17:32:42 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-02-22 18:26:15 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2026-02-22 19:02:46 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
