@@ -128,3 +128,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-22 18:26:15 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-02-22 19:02:46 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-02-22 19:45:49 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2026-02-23 20:59:17 +0530` - docs: document target enumeration workflow in security runbook
