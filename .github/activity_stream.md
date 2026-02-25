@@ -130,3 +130,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-22 19:45:49 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-02-23 20:59:17 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-02-24 10:46:37 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2026-02-25 10:49:46 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
