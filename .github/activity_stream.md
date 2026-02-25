@@ -133,3 +133,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-25 10:49:46 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-02-25 12:52:56 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-02-25 14:17:47 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-02-25 16:47:48 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
