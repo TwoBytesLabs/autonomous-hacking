@@ -136,3 +136,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-25 16:47:48 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-02-25 20:15:23 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-02-25 20:33:47 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2026-02-26 15:42:10 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
