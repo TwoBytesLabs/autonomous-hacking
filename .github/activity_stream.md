@@ -138,3 +138,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-25 20:33:47 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-02-26 15:42:10 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-02-27 13:10:38 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-02-27 18:27:21 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
