@@ -139,3 +139,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-26 15:42:10 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-02-27 13:10:38 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-02-27 18:27:21 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2026-02-28 09:45:11 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
