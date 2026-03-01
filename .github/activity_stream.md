@@ -143,3 +143,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-02-28 10:39:56 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-02-28 11:08:54 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-02-28 22:33:50 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2026-03-01 09:50:55 +0530` - perf(recon): parallelize port scan worker threads with async I/O
