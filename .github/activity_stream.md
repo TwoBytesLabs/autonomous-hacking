@@ -151,3 +151,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-03 10:49:51 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-03-03 11:43:25 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-03-03 15:36:15 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2026-03-03 21:08:16 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
