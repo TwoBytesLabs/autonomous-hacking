@@ -150,3 +150,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-03 09:34:34 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-03-03 10:49:51 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-03-03 11:43:25 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2026-03-03 15:36:15 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
