@@ -158,3 +158,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-04 21:40:41 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-03-05 14:02:18 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-03-05 15:14:51 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2026-03-05 16:15:35 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
