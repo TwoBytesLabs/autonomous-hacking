@@ -163,3 +163,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-06 18:22:09 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-03-08 10:20:13 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-03-08 11:03:08 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2026-03-08 11:19:54 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
