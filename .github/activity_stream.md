@@ -167,3 +167,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-10 18:29:53 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-03-11 10:56:26 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-03-11 11:37:12 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2026-03-12 14:39:13 +0530` - fix(cli): parse complex target specification flags without silent failure
