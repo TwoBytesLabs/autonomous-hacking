@@ -177,3 +177,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-16 17:58:55 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-03-16 19:05:16 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-03-16 21:01:21 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2026-03-16 21:13:55 +0530` - docs: update terminal CLI examples and setup prerequisites
