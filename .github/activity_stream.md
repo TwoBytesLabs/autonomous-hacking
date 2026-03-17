@@ -180,3 +180,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-16 21:13:55 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-03-17 17:10:06 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-03-17 20:25:57 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2026-03-17 21:15:58 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
