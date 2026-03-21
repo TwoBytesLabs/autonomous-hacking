@@ -185,3 +185,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-19 19:28:33 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-03-20 12:07:54 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-03-21 18:16:13 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2026-03-21 19:18:02 +0530` - docs: update terminal CLI examples and setup prerequisites
