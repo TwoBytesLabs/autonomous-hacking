@@ -189,3 +189,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-22 17:19:57 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-03-22 17:35:15 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-03-22 18:37:16 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2026-03-23 11:09:38 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
