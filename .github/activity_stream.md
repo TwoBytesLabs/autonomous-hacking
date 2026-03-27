@@ -201,3 +201,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-26 10:38:51 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-03-26 10:57:30 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-03-26 13:56:27 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2026-03-27 11:40:55 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
