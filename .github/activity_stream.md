@@ -203,3 +203,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-26 13:56:27 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-03-27 11:40:55 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-03-27 18:22:14 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2026-03-28 09:31:40 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
