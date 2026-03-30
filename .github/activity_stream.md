@@ -212,3 +212,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-30 13:03:53 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-03-30 16:36:33 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-03-30 16:57:28 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2026-03-30 18:22:42 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
