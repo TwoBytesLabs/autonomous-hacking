@@ -210,3 +210,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-29 15:38:08 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-03-29 19:28:38 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-03-30 13:03:53 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2026-03-30 16:36:33 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
