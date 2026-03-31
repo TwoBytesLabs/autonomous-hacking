@@ -214,3 +214,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-30 16:57:28 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-03-30 18:22:42 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-03-31 16:17:42 +0530` - test(mock): add automated integration tests for payload generator
+* `2026-03-31 19:05:20 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
