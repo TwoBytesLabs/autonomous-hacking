@@ -217,3 +217,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-03-31 19:05:20 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-03-31 19:59:14 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-04-01 11:06:45 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2026-04-01 17:44:38 +0530` - fix(cli): parse complex target specification flags without silent failure
