@@ -220,3 +220,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-01 17:44:38 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-04-03 09:40:21 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-04-04 18:52:26 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2026-04-04 22:56:01 +0530` - docs: update terminal CLI examples and setup prerequisites
