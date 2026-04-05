@@ -221,3 +221,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-03 09:40:21 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-04-04 18:52:26 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-04-04 22:56:01 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2026-04-05 22:21:56 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
