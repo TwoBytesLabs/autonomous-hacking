@@ -225,3 +225,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-06 09:30:08 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-04-06 12:43:26 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-04-06 12:47:25 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2026-04-06 22:40:02 +0530` - perf(recon): parallelize port scan worker threads with async I/O
