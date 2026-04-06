@@ -223,3 +223,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-04 22:56:01 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-04-05 22:21:56 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-04-06 09:30:08 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-04-06 12:43:26 +0530` - perf(fingerprint): cache service response headers for rapid matching
