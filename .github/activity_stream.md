@@ -227,3 +227,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-06 12:47:25 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-04-06 22:40:02 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-04-07 09:06:34 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
+* `2026-04-07 18:44:47 +0530` - perf(recon): parallelize port scan worker threads with async I/O
