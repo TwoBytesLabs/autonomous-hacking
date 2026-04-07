@@ -228,3 +228,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-06 22:40:02 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-04-07 09:06:34 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-04-07 18:44:47 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2026-04-07 22:22:07 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
