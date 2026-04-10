@@ -231,3 +231,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-07 22:22:07 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-04-09 10:21:40 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-04-09 16:09:58 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-04-10 10:25:07 +0530` - test(mock): add automated integration tests for payload generator
