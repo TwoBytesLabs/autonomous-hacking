@@ -237,3 +237,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-11 09:54:45 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-04-11 09:58:42 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-04-11 09:59:33 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2026-04-11 19:39:58 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
