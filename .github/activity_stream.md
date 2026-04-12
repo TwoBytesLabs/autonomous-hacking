@@ -241,3 +241,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-12 09:34:37 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-04-12 10:39:57 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-04-12 11:34:51 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-04-12 17:33:09 +0530` - test(mock): add automated integration tests for payload generator
