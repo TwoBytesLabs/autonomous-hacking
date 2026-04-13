@@ -244,3 +244,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-12 17:33:09 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-04-13 11:08:05 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-04-13 13:25:39 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2026-04-13 17:07:42 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
