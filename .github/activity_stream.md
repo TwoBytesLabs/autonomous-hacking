@@ -242,3 +242,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-12 10:39:57 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-04-12 11:34:51 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-04-12 17:33:09 +0530` - test(mock): add automated integration tests for payload generator
+* `2026-04-13 11:08:05 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
