@@ -263,3 +263,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-18 12:07:16 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-04-18 12:14:09 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-04-18 19:38:25 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2026-04-19 17:30:32 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
