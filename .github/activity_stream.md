@@ -268,3 +268,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-20 12:37:31 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-04-20 15:20:48 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-04-21 22:54:25 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
+* `2026-04-22 10:51:16 +0530` - fix(cli): parse complex target specification flags without silent failure
