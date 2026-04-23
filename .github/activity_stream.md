@@ -272,3 +272,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-22 13:57:49 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-04-23 18:04:20 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-04-23 18:45:56 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2026-04-23 21:05:54 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
