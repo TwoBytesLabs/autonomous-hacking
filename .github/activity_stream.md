@@ -274,3 +274,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-23 18:45:56 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-04-23 21:05:54 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-04-24 15:34:55 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2026-04-24 18:07:40 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
