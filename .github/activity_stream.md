@@ -280,3 +280,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-25 19:38:28 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-04-25 22:33:23 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-04-26 21:10:52 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2026-04-27 10:08:43 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
