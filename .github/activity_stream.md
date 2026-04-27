@@ -283,3 +283,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-04-27 10:08:43 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-04-27 10:33:16 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-04-27 15:33:54 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2026-04-27 20:01:00 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
