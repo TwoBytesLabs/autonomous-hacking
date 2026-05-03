@@ -291,3 +291,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-02 13:42:08 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-05-02 13:54:15 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-05-02 16:21:55 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2026-05-03 10:20:22 +0530` - perf(fingerprint): cache service response headers for rapid matching
