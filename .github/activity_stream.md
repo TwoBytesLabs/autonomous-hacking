@@ -304,3 +304,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-06 11:58:56 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-05-06 13:29:24 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-05-06 18:27:57 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
+* `2026-05-06 20:15:07 +0530` - fix(cli): parse complex target specification flags without silent failure
