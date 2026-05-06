@@ -301,3 +301,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-04 18:34:33 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-05-05 11:37:21 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-05-05 16:42:14 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2026-05-06 11:58:56 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
