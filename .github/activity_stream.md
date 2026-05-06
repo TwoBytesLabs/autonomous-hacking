@@ -302,3 +302,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-05 11:37:21 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-05-05 16:42:14 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-05-06 11:58:56 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2026-05-06 13:29:24 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
