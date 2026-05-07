@@ -308,3 +308,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-07 09:49:59 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-05-07 10:50:40 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-05-07 11:36:30 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2026-05-07 21:49:03 +0530` - perf(recon): parallelize port scan worker threads with async I/O
