@@ -306,3 +306,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-06 18:27:57 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-05-06 20:15:07 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-05-07 09:49:59 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2026-05-07 10:50:40 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
