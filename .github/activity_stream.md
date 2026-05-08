@@ -309,3 +309,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-07 10:50:40 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-05-07 11:36:30 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-05-07 21:49:03 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2026-05-08 15:28:36 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
