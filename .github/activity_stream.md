@@ -312,3 +312,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-08 15:28:36 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-05-09 11:51:54 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-05-09 16:47:16 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2026-05-10 10:37:51 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
