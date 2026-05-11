@@ -314,3 +314,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-09 16:47:16 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-05-10 10:37:51 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-05-11 10:38:16 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2026-05-11 15:03:03 +0530` - docs: update terminal CLI examples and setup prerequisites
