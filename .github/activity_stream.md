@@ -316,3 +316,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-11 10:38:16 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-05-11 15:03:03 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-05-11 15:11:27 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2026-05-11 16:49:32 +0530` - fix(cli): parse complex target specification flags without silent failure
