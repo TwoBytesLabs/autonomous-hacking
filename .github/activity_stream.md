@@ -319,3 +319,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-11 16:49:32 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-05-11 17:08:39 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-05-12 14:12:48 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2026-05-12 15:49:06 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
