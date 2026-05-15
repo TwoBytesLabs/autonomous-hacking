@@ -326,3 +326,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-13 21:49:32 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-05-14 16:14:10 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-05-15 14:11:28 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2026-05-15 16:53:31 +0530` - fix(cli): parse complex target specification flags without silent failure
