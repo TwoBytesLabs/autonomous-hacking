@@ -330,3 +330,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-15 21:48:11 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-05-16 18:16:51 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-05-16 20:35:58 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2026-05-16 20:43:38 +0530` - test(unit): add unit tests for CIDR range subnet expansion
