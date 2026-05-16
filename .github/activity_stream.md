@@ -328,3 +328,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-15 14:11:28 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-05-15 16:53:31 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-05-15 21:48:11 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2026-05-16 18:16:51 +0530` - docs: update terminal CLI examples and setup prerequisites
