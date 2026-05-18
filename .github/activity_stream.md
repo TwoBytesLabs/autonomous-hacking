@@ -333,3 +333,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-16 20:43:38 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-05-17 19:13:58 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-05-18 09:47:53 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2026-05-18 14:30:09 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
