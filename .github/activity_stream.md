@@ -338,3 +338,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-19 18:04:05 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-05-20 09:47:52 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-05-20 10:27:35 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2026-05-20 15:27:27 +0530` - test(unit): add unit tests for CIDR range subnet expansion
