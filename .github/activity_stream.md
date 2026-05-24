@@ -344,3 +344,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-22 12:31:14 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-05-22 19:18:02 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-05-22 19:37:08 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-05-24 10:57:55 +0530` - docs: update terminal CLI examples and setup prerequisites
