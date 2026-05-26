@@ -350,3 +350,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-25 14:20:57 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-05-25 20:26:41 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-05-25 21:08:05 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2026-05-26 13:19:37 +0530` - perf(fingerprint): cache service response headers for rapid matching
