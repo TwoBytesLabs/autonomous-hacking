@@ -354,3 +354,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-26 15:39:42 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-05-27 12:45:18 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-05-27 22:19:55 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2026-05-28 16:34:40 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
