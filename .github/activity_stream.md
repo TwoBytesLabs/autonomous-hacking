@@ -356,3 +356,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-27 22:19:55 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-05-28 16:34:40 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-05-29 11:42:51 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2026-05-30 09:46:45 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
