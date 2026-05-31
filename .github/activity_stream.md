@@ -360,3 +360,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-30 09:58:35 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-05-30 16:42:49 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-05-30 21:26:44 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2026-05-31 18:01:31 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
