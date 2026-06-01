@@ -364,3 +364,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-01 09:42:10 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-06-01 11:28:20 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-06-01 13:25:27 +0530` - docs: document target enumeration workflow in security runbook
+* `2026-06-01 16:02:45 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
