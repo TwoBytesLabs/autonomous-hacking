@@ -361,3 +361,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-30 16:42:49 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-05-30 21:26:44 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-05-31 18:01:31 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2026-06-01 09:42:10 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
