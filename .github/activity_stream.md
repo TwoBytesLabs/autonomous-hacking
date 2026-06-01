@@ -362,3 +362,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-05-30 21:26:44 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-05-31 18:01:31 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-06-01 09:42:10 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2026-06-01 11:28:20 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
