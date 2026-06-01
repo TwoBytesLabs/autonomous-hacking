@@ -366,3 +366,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-01 13:25:27 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-06-01 16:02:45 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-06-01 19:27:09 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2026-06-01 21:14:47 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
