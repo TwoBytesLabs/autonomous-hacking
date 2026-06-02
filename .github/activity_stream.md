@@ -368,3 +368,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-01 19:27:09 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-06-01 21:14:47 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-06-02 09:58:18 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2026-06-02 10:49:13 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
