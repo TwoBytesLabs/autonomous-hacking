@@ -371,3 +371,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-02 10:49:13 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-06-02 15:10:40 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-06-02 15:53:29 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2026-06-02 21:55:01 +0530` - perf(recon): parallelize port scan worker threads with async I/O
