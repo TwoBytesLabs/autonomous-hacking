@@ -373,3 +373,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-02 15:53:29 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-06-02 21:55:01 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-06-03 16:45:21 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2026-06-03 21:33:13 +0530` - test(mock): add automated integration tests for payload generator
