@@ -379,3 +379,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-04 18:51:46 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-06-04 20:11:40 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-06-05 14:48:52 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2026-06-06 22:01:32 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
