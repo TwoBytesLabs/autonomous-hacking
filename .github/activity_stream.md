@@ -384,3 +384,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-07 16:32:33 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-06-07 21:08:49 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-06-08 14:50:11 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2026-06-08 18:20:20 +0530` - docs: document target enumeration workflow in security runbook
