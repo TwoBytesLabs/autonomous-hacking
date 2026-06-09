@@ -387,3 +387,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-08 18:20:20 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-06-09 12:29:15 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-06-09 15:24:07 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-06-09 16:53:33 +0530` - docs: update terminal CLI examples and setup prerequisites
