@@ -386,3 +386,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-08 14:50:11 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-06-08 18:20:20 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-06-09 12:29:15 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2026-06-09 15:24:07 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
