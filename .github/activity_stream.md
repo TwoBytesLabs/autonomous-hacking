@@ -385,3 +385,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-07 21:08:49 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-06-08 14:50:11 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-06-08 18:20:20 +0530` - docs: document target enumeration workflow in security runbook
+* `2026-06-09 12:29:15 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
