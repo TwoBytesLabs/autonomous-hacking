@@ -389,3 +389,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-09 15:24:07 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-06-09 16:53:33 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-06-10 19:54:48 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2026-06-10 21:31:24 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
