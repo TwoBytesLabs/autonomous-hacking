@@ -402,3 +402,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-14 14:47:57 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-06-14 17:19:31 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-06-14 17:44:46 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2026-06-14 17:46:53 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
