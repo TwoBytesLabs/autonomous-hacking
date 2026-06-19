@@ -405,3 +405,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-14 17:46:53 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-06-19 10:01:58 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-06-19 13:04:01 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2026-06-19 17:49:48 +0530` - docs: update terminal CLI examples and setup prerequisites
