@@ -404,3 +404,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-14 17:44:46 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-06-14 17:46:53 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-06-19 10:01:58 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2026-06-19 13:04:01 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
