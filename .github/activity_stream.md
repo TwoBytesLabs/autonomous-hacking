@@ -417,3 +417,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-22 21:31:55 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-06-22 22:36:02 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-06-23 09:40:55 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2026-06-23 16:34:52 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
