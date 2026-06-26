@@ -423,3 +423,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-25 11:31:35 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-06-25 12:59:37 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-06-26 11:53:15 +0530` - test(mock): add automated integration tests for payload generator
+* `2026-06-26 20:36:21 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
