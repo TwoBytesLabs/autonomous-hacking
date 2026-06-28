@@ -426,3 +426,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-26 20:36:21 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-06-27 12:58:14 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-06-27 22:10:03 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2026-06-28 10:42:56 +0530` - docs: update terminal CLI examples and setup prerequisites
