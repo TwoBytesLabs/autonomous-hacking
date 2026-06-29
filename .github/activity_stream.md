@@ -429,3 +429,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-28 10:42:56 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-06-28 14:10:40 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-06-28 18:37:07 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2026-06-29 15:28:38 +0530` - fix(cli): parse complex target specification flags without silent failure
