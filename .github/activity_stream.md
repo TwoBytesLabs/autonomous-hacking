@@ -434,3 +434,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-06-30 21:25:35 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-07-01 09:06:33 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-07-01 20:24:35 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2026-07-01 20:32:36 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
