@@ -436,3 +436,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-01 20:24:35 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-07-01 20:32:36 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-07-02 19:55:04 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2026-07-02 20:35:51 +0530` - test(unit): add unit tests for CIDR range subnet expansion
