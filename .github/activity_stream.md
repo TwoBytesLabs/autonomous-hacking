@@ -439,3 +439,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-02 20:35:51 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-07-04 12:41:56 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-07-04 16:00:36 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2026-07-04 18:49:45 +0530` - fix(cli): parse complex target specification flags without silent failure
