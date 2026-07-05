@@ -443,3 +443,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-05 12:42:23 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-07-05 18:08:37 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-07-05 19:22:11 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2026-07-05 22:02:06 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
