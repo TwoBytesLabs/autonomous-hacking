@@ -441,3 +441,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-04 16:00:36 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-07-04 18:49:45 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-07-05 12:42:23 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2026-07-05 18:08:37 +0530` - docs: document target enumeration workflow in security runbook
