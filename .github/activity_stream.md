@@ -456,3 +456,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-09 12:30:54 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-07-09 14:33:54 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-07-09 17:33:48 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2026-07-10 09:58:33 +0530` - docs: update terminal CLI examples and setup prerequisites
