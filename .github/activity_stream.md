@@ -463,3 +463,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-10 17:57:26 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-07-10 22:08:11 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-07-11 16:18:30 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
+* `2026-07-11 22:53:30 +0530` - docs: update terminal CLI examples and setup prerequisites
