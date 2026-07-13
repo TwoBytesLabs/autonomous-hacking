@@ -465,3 +465,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-11 16:18:30 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-07-11 22:53:30 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-07-12 21:00:47 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2026-07-13 12:13:21 +0530` - perf(recon): parallelize port scan worker threads with async I/O
