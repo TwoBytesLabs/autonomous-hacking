@@ -478,3 +478,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-16 16:50:30 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-07-16 19:58:14 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-07-17 13:00:26 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2026-07-17 19:54:44 +0530` - test(unit): add unit tests for CIDR range subnet expansion
