@@ -486,3 +486,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-18 17:39:27 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-07-19 16:21:15 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-07-19 19:52:51 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2026-07-20 11:14:25 +0530` - test(unit): add unit tests for CIDR range subnet expansion
