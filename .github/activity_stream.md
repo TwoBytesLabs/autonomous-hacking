@@ -488,3 +488,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-19 19:52:51 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-07-20 11:14:25 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-07-20 16:48:19 +0530` - docs: document target enumeration workflow in security runbook
+* `2026-07-21 13:09:49 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
