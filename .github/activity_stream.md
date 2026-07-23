@@ -491,3 +491,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-21 13:09:49 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-07-21 16:46:42 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-07-22 19:57:51 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2026-07-23 10:25:46 +0530` - fix(cli): parse complex target specification flags without silent failure
