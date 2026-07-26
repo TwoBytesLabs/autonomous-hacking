@@ -503,3 +503,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-26 14:07:11 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-07-26 19:53:32 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-07-26 20:01:47 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2026-07-26 20:28:12 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
