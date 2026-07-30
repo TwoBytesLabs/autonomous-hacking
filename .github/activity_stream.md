@@ -510,3 +510,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-28 09:26:43 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-07-28 18:56:37 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-07-30 18:58:55 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2026-07-30 19:52:01 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
