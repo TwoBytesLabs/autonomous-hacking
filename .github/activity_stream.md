@@ -509,3 +509,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-28 09:23:49 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-07-28 09:26:43 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-07-28 18:56:37 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2026-07-30 18:58:55 +0530` - fix(cli): parse complex target specification flags without silent failure
