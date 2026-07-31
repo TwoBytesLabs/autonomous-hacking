@@ -512,3 +512,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-30 18:58:55 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-07-30 19:52:01 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-07-30 22:32:30 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2026-07-31 15:21:04 +0530` - fix(cli): parse complex target specification flags without silent failure
