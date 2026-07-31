@@ -514,3 +514,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-07-30 22:32:30 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-07-31 15:21:04 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-07-31 17:23:48 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
+* `2026-07-31 20:10:38 +0530` - docs: update terminal CLI examples and setup prerequisites
