@@ -518,3 +518,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-02 09:38:09 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-08-03 11:15:22 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-08-03 13:28:34 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
+* `2026-08-03 18:34:52 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
