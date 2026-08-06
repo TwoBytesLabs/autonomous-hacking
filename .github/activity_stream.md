@@ -527,3 +527,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-06 14:06:11 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-08-06 14:41:45 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-08-06 14:53:24 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2026-08-06 18:16:19 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
