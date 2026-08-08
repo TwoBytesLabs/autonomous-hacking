@@ -530,3 +530,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-06 18:16:19 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-08-07 13:57:14 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-08-08 12:03:01 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2026-08-08 13:03:23 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
