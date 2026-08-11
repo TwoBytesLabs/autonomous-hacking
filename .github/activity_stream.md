@@ -539,3 +539,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-09 22:41:53 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-08-10 11:06:19 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-08-10 17:35:26 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2026-08-11 15:33:03 +0530` - fix(cli): parse complex target specification flags without silent failure
