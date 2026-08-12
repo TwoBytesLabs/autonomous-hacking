@@ -543,3 +543,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-11 16:06:24 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-08-11 20:55:32 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-08-12 17:52:37 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
+* `2026-08-12 22:10:25 +0530` - fix(cli): parse complex target specification flags without silent failure
