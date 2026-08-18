@@ -554,3 +554,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-17 16:29:27 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-08-18 11:55:56 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-08-18 12:18:39 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2026-08-18 15:56:53 +0530` - docs: document target enumeration workflow in security runbook
