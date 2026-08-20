@@ -558,3 +558,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-19 12:48:21 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-08-19 15:16:31 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-08-20 12:39:40 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-08-20 21:29:31 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
