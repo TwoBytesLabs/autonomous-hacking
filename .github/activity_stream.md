@@ -565,3 +565,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-22 10:51:55 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-08-22 15:41:59 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-08-22 20:09:17 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-08-22 22:23:07 +0530` - docs: document target enumeration workflow in security runbook
