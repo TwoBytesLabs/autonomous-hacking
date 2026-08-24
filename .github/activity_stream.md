@@ -568,3 +568,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-22 22:23:07 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-08-23 10:06:52 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-08-24 09:53:38 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2026-08-24 10:15:55 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
