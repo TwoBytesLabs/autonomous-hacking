@@ -573,3 +573,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-25 17:09:29 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-08-25 20:35:25 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-08-26 17:07:24 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2026-08-26 20:31:38 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
