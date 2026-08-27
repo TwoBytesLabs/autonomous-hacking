@@ -576,3 +576,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-26 20:31:38 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-08-26 21:42:12 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-08-27 14:44:02 +0530` - fix(cli): parse complex target specification flags without silent failure
+* `2026-08-27 15:29:24 +0530` - chore(signatures): update CVE vulnerability definition dictionary
