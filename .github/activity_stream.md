@@ -586,3 +586,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-08-31 14:24:57 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-08-31 16:20:41 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-09-01 15:20:41 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2026-09-01 16:50:17 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
