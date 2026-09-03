@@ -588,3 +588,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-01 15:20:41 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-09-01 16:50:17 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-09-01 19:15:46 +0530` - test(mock): add automated integration tests for payload generator
+* `2026-09-03 17:50:08 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
