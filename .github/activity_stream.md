@@ -598,3 +598,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-04 17:58:18 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-09-05 17:25:03 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-09-05 22:56:28 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
+* `2026-09-06 09:44:33 +0530` - perf(recon): parallelize port scan worker threads with async I/O
