@@ -601,3 +601,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-06 09:44:33 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-09-06 12:17:22 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-09-06 16:21:57 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2026-09-06 20:27:50 +0530` - test(mock): add automated integration tests for payload generator
