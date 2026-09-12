@@ -615,3 +615,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-11 20:18:17 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-09-11 21:25:34 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-09-11 22:18:27 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2026-09-12 17:51:24 +0530` - docs: update terminal CLI examples and setup prerequisites
