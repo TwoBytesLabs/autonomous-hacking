@@ -616,3 +616,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-11 21:25:34 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-09-11 22:18:27 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-09-12 17:51:24 +0530` - docs: update terminal CLI examples and setup prerequisites
+* `2026-09-12 17:59:21 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
