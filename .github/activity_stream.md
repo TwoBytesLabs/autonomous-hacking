@@ -621,3 +621,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-14 18:29:50 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-09-15 11:27:50 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-09-15 12:22:10 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2026-09-15 20:19:57 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
