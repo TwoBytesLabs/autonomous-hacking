@@ -623,3 +623,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-15 12:22:10 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
 * `2026-09-15 20:19:57 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
 * `2026-09-16 09:07:10 +0530` - test(mock): add automated integration tests for payload generator
+* `2026-09-16 14:45:56 +0530` - test(unit): add unit tests for CIDR range subnet expansion
