@@ -625,3 +625,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-16 09:07:10 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-09-16 14:45:56 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-09-17 21:49:22 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-09-18 10:53:53 +0530` - refactor(pipeline): streamline target vulnerability scoring rubric
