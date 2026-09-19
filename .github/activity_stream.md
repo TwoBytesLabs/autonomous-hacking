@@ -632,3 +632,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-19 11:15:56 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-09-19 12:20:49 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-09-19 12:43:52 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2026-09-19 19:33:44 +0530` - docs: update terminal CLI examples and setup prerequisites
