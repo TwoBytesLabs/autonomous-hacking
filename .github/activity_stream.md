@@ -637,3 +637,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-19 20:45:17 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-09-20 11:09:30 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-09-20 11:13:00 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-09-20 20:41:34 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
