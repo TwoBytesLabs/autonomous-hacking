@@ -646,3 +646,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-23 18:42:02 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-09-23 20:45:45 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-09-24 11:01:52 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
+* `2026-09-24 19:35:36 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
