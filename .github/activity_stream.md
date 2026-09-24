@@ -645,3 +645,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-22 21:40:15 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-09-23 18:42:02 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-09-23 20:45:45 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2026-09-24 11:01:52 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
