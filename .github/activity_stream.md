@@ -649,3 +649,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-24 19:35:36 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-09-26 17:07:47 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-09-27 11:12:21 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2026-09-27 12:03:12 +0530` - test(unit): add unit tests for CIDR range subnet expansion
