@@ -657,3 +657,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-29 17:43:13 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-09-30 10:17:35 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-09-30 12:07:59 +0530` - docs: document target enumeration workflow in security runbook
+* `2026-09-30 15:57:44 +0530` - test(unit): add unit tests for CIDR range subnet expansion
