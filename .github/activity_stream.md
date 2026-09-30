@@ -656,3 +656,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-28 18:11:45 +0530` - perf(fingerprint): cache service response headers for rapid matching
 * `2026-09-29 17:43:13 +0530` - test(mock): add automated integration tests for payload generator
 * `2026-09-30 10:17:35 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
+* `2026-09-30 12:07:59 +0530` - docs: document target enumeration workflow in security runbook
