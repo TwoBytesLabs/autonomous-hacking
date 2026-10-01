@@ -659,3 +659,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-30 12:07:59 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-09-30 15:57:44 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-09-30 21:48:07 +0530` - perf(recon): parallelize port scan worker threads with async I/O
+* `2026-10-01 11:26:17 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
