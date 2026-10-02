@@ -661,3 +661,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-09-30 21:48:07 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-10-01 11:26:17 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-10-01 20:19:44 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2026-10-02 12:52:34 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
