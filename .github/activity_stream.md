@@ -665,3 +665,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-02 17:31:58 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-10-03 18:21:25 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-10-03 18:57:28 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
+* `2026-10-04 12:10:18 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
