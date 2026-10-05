@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary & runtime files
+*.tmp
+*.log
+*.swp
+*~
+.shared/
+
+# Sensitive data
+.env*
+secrets/
+*.key
+*.pem
