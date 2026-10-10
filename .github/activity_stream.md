@@ -686,3 +686,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-09 13:47:31 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
 * `2026-10-09 18:58:43 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-10-10 14:20:30 +0530` - docs: document target enumeration workflow in security runbook
+* `2026-10-10 16:59:23 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
