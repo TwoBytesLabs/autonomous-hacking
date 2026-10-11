@@ -689,3 +689,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-10 16:59:23 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-10-10 21:22:41 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-10-11 13:45:38 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
+* `2026-10-11 16:45:50 +0530` - fix(cli): parse complex target specification flags without silent failure
