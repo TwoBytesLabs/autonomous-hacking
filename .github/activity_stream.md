@@ -691,3 +691,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-11 13:45:38 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
 * `2026-10-11 16:45:50 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-10-11 17:08:53 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
+* `2026-10-12 18:03:28 +0530` - docs: update terminal CLI examples and setup prerequisites
