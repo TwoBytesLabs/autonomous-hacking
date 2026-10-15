@@ -697,3 +697,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-13 11:48:41 +0530` - feat(wifi): expand AI Wi-Fi auditor handshake capture validation
 * `2026-10-14 15:13:49 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-10-15 14:12:15 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
+* `2026-10-15 15:48:06 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
