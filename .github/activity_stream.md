@@ -698,3 +698,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-14 15:13:49 +0530` - docs: update terminal CLI examples and setup prerequisites
 * `2026-10-15 14:12:15 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
 * `2026-10-15 15:48:06 +0530` - fix(crawler): prevent recursion trap on circular URL redirects
+* `2026-10-16 10:41:10 +0530` - feat(recon): add passive WHOIS and reverse IP lookup enrichments
