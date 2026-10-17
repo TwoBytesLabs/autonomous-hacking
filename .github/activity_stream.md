@@ -702,3 +702,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-16 17:49:55 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-10-17 09:05:13 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
 * `2026-10-17 19:21:57 +0530` - chore(signatures): update CVE vulnerability definition dictionary
+* `2026-10-17 22:47:02 +0530` - fix(scanner): correct DNS resolution timeout handling during high load
