@@ -707,3 +707,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-19 10:45:45 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-10-19 16:11:12 +0530` - feat(agent): implement heuristic retry logic for transient HTTP failures
 * `2026-10-20 09:55:53 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
+* `2026-10-20 10:27:40 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
