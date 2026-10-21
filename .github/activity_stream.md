@@ -709,3 +709,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-20 09:55:53 +0530` - perf(parser): optimize regex matching for large nmap XML outputs
 * `2026-10-20 10:27:40 +0530` - feat(alert): add webhook notifications for critical vulnerability detections
 * `2026-10-20 20:11:41 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2026-10-21 10:26:55 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
