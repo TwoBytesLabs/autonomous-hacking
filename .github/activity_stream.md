@@ -711,3 +711,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-20 20:11:41 +0530` - test(unit): add unit tests for CIDR range subnet expansion
 * `2026-10-21 10:26:55 +0530` - refactor(osint): modularize Shodan and Censys API ingestion clients
 * `2026-10-21 11:21:15 +0530` - docs: document target enumeration workflow in security runbook
+* `2026-10-21 14:58:07 +0530` - perf(recon): parallelize port scan worker threads with async I/O
