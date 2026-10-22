@@ -713,3 +713,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-21 11:21:15 +0530` - docs: document target enumeration workflow in security runbook
 * `2026-10-21 14:58:07 +0530` - perf(recon): parallelize port scan worker threads with async I/O
 * `2026-10-22 13:34:40 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2026-10-22 16:44:26 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
