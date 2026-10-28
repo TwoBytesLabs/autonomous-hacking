@@ -725,3 +725,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-27 16:21:47 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-10-27 21:01:31 +0530` - chore(lint): clean up bash syntax warnings in reconnaissance scripts
 * `2026-10-28 13:03:17 +0530` - test(unit): add unit tests for CIDR range subnet expansion
+* `2026-10-28 20:18:15 +0530` - feat(osint): enhance subdomain discovery with certificate transparency logs
