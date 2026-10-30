@@ -731,3 +731,4 @@ Continuous development log for TwoBytesLabs core components.
 * `2026-10-29 09:18:55 +0530` - chore(signatures): update CVE vulnerability definition dictionary
 * `2026-10-29 19:28:40 +0530` - fix(cli): parse complex target specification flags without silent failure
 * `2026-10-29 21:28:31 +0530` - perf(fingerprint): cache service response headers for rapid matching
+* `2026-10-30 13:47:27 +0530` - fix(reporting): escape markdown characters in HTML vulnerability report
